@@ -1,0 +1,10 @@
+{
+  "gallery": {
+    "imageNames": ["Image", "Image2", "Image3", "Image4"],
+    "displayMode": "grid",
+    "columns": 2
+  },
+  "theme": {
+    "tintColorHex": "#FF9500"
+  }
+}
